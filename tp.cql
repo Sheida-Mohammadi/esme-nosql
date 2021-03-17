@@ -136,7 +136,7 @@ CREATE TABLE GAGNANT_CANDIDAT_COMMUNE (
 // On insert des candidats de communes
 
 INSERT INTO GAGNANT_CANDIDATS_COMMUNES (NOM_C , PRENOM_C , PARTI_POLITIQUE , NBR_VOTE, COMMUNE)
-VALUES ('lala', 'tut, 'A', 1, 'Versailles');
+VALUES ('lala', 'tut', 'A', 1, 'Versailles');
 
 INSERT INTO GAGNANT_CANDIDATS_COMMUNES (NOM_C , PRENOM_C , PARTI_POLITIQUE , NBR_VOTE, COMMUNE)
 VALUES ('lolo', 'tit', 'B', 2, 'Poissy');
